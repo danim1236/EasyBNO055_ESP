@@ -17,9 +17,9 @@ public:
 	void start(){
 		start(nullptr);
 	}
-	double orientationX;
-	double orientationY;
-	double orientationZ;
+	double orientationX=0;
+	double orientationY=0;
+	double orientationZ=0;
 
 
 };
